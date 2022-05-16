@@ -5,4 +5,4 @@ Hello my name is Oscar Hurtado and this is is my professional website portfolio
 
 Website: https://oscarh1025.github.io/Portafolio1/
 
-Githubhttps: //github.com/OscarH1025/Portafolio1
+Githubhttps: https://github.com/OscarH1025/Portafolio1
